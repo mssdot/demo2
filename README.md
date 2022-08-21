@@ -1,7 +1,7 @@
-#demo2
+# main(braech)
 
-new beginning
+main branch
 
-## new breanch
+## new breanch(feature)
 
 feature is name of branch
